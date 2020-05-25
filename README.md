@@ -10,6 +10,11 @@ https://github.com/coreybutler/nvm-windows/releases/tag/1.1.7
 npm install -g @angular/cli
 
 ng new angular-play
+
+npm install --save @angular/material 
+npm install --save @angular/cdk
+npm install --save @angular/animations
+npm install --save hammerjs
 ```
 
 
